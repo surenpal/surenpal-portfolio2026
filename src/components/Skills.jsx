@@ -4,17 +4,17 @@ export default function Skills() {
       <h2 className="text-3xl font-bold mb-6">Skills</h2>
 
       <div className="flex flex-wrap gap-4">
-        <img src="./assets/react.png" alt="React" className="w-12 h-12" />
-        <span className="px-4 py-2 bg-white shadow rounded">React</span>
-        <span className="px-4 py-2 bg-white shadow rounded">Tailwind</span>
-        <span className="px-4 py-2 bg-white shadow rounded">JavaScript</span>
-        <span className="px-4 py-2 bg-white shadow rounded">Server</span>
-        <span className="px-4 py-2 bg-white shadow rounded">MongoDB</span>
-        <span className="px-4 py-2 bg-white shadow rounded">JAVA</span>
-        <span className="px-4 py-2 bg-white shadow rounded">HTML</span>
-        <span className="px-4 py-2 bg-white shadow rounded">CSS</span>
-        <span className="px-4 py-2 bg-white shadow rounded">GitHub</span>  
-        <span className="px-4 py-2 bg-white shadow rounded">Python</span>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />React</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />JavaScript</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />HTML</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/tailwind.png" alt="React" className="w-24 h-24" />Tailwind</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />Github</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />MongoDB</div> 
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />Express.js</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />Node.js</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />Python</div>
+        <div className="px-4 py-2 bg-amber-50"><img src="./src/assets/react.png" alt="React" className="w-24 h-24" />Server</div>
+       
       </div>
     </section>
   );
