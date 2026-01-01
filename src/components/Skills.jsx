@@ -4,6 +4,7 @@ export default function Skills() {
       <h2 className="text-3xl font-bold mb-6">Skills</h2>
 
       <div className="flex flex-wrap gap-4">
+        <img src="./assets/react.png" alt="React" className="w-12 h-12" />
         <span className="px-4 py-2 bg-white shadow rounded">React</span>
         <span className="px-4 py-2 bg-white shadow rounded">Tailwind</span>
         <span className="px-4 py-2 bg-white shadow rounded">JavaScript</span>
