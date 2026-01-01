@@ -7,9 +7,9 @@ export default function Skills() {
         <span className="px-4 py-2 bg-white shadow rounded">React</span>
         <span className="px-4 py-2 bg-white shadow rounded">Tailwind</span>
         <span className="px-4 py-2 bg-white shadow rounded">JavaScript</span>
-        <span className="px-4 py-2 bg-white shadow rounded">Food Safety</span>
-        <span className="px-4 py-2 bg-white shadow rounded">HACCP</span>
-        <span className="px-4 py-2 bg-white shadow rounded">GMP</span>
+        <span className="px-4 py-2 bg-white shadow rounded">Server</span>
+        <span className="px-4 py-2 bg-white shadow rounded">MongoDB</span>
+        <span className="px-4 py-2 bg-white shadow rounded">JAVA</span>
       </div>
     </section>
   );
