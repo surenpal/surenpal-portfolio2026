@@ -1,5 +1,4 @@
 import AnimatedCard from "./AnimatedCard";
-import DemoCard from "./DemoCard";
 
 export default function Projects() {
   return (
@@ -13,9 +12,6 @@ export default function Projects() {
         <AnimatedCard />
         <AnimatedCard />
         <AnimatedCard />
-        <DemoCard />
-        <DemoCard />
-        <DemoCard />
       </div>
     </section>
   );

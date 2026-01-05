@@ -5,7 +5,6 @@ export default function Navbar() {
         <h1 className="text-xl font-bold">Suren Pal</h1>
         <div className="space-x-6">
           <a href="#about">About</a>
-          <a href="#mycareer">My Career</a>
           <a href="#skills">Skills</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>

@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 
 export default function Mycareer() {
   const items = [
-    { title: "High School", text: "Majored in science and built strong analytical skills." },
-    { title: "Bachelor’s in Food Technology", text: "Learned food safety, GMP, and HACCP." },
-    { title: "Quality Control Officer", text: "Worked in food processing industry for 2 years." },
+    { title: "Japanese Language School", text: "Learn Japanese language and culture at Nagoya Fukutoku Nihongo Gakuin" },
+    { title: " 2 Year`s of college degree for IT", text: "Completed my 2 years IT course at Nagoya Future Technology College." },
+    { title: "Sales Manager", text: "Strong communication and leadership skills." },
     { title: "React Developer Journey", text: "Started building learner-friendly resources." },
-    { title: "Future Vision", text: "Plan to establish my own food & restaurant company." },
+    { title: "Future Vision", text: "Plan to good Full Stack Developer." },
   ];
 
   return (

@@ -10,9 +10,9 @@ export default function AnimatedCard() {
       </div>
 
       <div className="p-4">
-        <h2 className="text-lg font-semibold">Beautiful Card</h2>
+        <h2 className="text-lg font-semibold">Project title</h2>
         <p className="text-sm text-gray-600 opacity-0 transition duration-300 hover:opacity-100">
-          This text fades in when you hover over the card.
+          Projects will be added here
         </p>
       </div>
     </div>
