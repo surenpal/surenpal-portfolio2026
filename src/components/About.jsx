@@ -1,3 +1,4 @@
+import MyCareer from "./MyCareer";
 export default function About() {
   return (
     <section id="about" className="max-w-4xl mx-auto py-20 px-6">
@@ -7,6 +8,7 @@ export default function About() {
         learner-friendly resources. I enjoy simplifying complex topics and
         creating clean, scalable projects for teaching and real-world use.
       </p>
+      <MyCareer />
     </section>
   );
 }
